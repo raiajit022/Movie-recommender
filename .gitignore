@@ -1,9 +1,0 @@
-# Ignore pickles
-*.pkl
-**/*.pkl
-
-movie_list.pkl
-
-similarity.pkl
-
-venv
