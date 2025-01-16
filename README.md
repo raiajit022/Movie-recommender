@@ -1,10 +1,7 @@
 
-```"Movie Recommender"
-...
-```
+"Movie Recommender"
 
 Install required dependencies
-
 
 ```shellscript
 pip install -r requirements.txt
