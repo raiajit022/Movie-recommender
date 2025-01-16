@@ -1,5 +1,5 @@
 
-```markdown project="Movie Recommender" file="README.md"
+```"Movie Recommender"
 ...
 ```
 
