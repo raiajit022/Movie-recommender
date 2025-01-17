@@ -45,12 +45,12 @@ Experience the Movie Recommender in action: [Movie Recommender App](https://movi
 
    ```markdown file="README.md"
 ...
-```
 
 3. **Install Required Dependencies**
 
 ```shellscript
 pip install -r requirements.txt
+
 ```
 
 This will install all necessary Python packages including:
