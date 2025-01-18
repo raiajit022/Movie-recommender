@@ -43,8 +43,7 @@ Experience the Movie Recommender in action: [Movie Recommender App](https://movi
    python -m venv venv
    source venv/bin/activate
 
-   ```markdown file="README.md"
-...
+   ```
 
 3. **Install Required Dependencies**
 
